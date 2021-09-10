@@ -146,7 +146,7 @@
         <string key="gen_lets_build_farm" value="Let's build a farm to get even higher income."/>
         <string key="gen_press_button_twice" value="Press the button twice"/>
         <string key="gen_build_farm" value="Farms can only be built near the capital or other farms."/>
-        <string key="gen_about_farms" value="Every farm gives 3 coins per turn. Every new farm costs 2 more than the previous one."/>
+        <string key="gen_about_farms" value="Every farm gives 4 coins per turn. Every new farm costs 2 more than the previous one."/>
         <string key="gen_lets_build_peasant" value="Let's build a new unit and capture a neutral hex."/>
         <string key="gen_press_button" value="Press button at the bottom"/>
         <string key="gen_build_peasant" value="Place your unit a on hex near city borders."/>
